@@ -14,7 +14,7 @@ I downloaded maven and java (any version of maven should workd & any version of 
 ### To Compile Project
 Im pretty sure this sets up the dependancies for javafx so the game can run.
 
-"$>mvn clean package" OR "$>mvn clean build"
+"$>mvn clean package"
 ### Start BB Game GUI
 "$>mvn javafx:run"
 
