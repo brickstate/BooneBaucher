@@ -1,6 +1,8 @@
 # BooneBauchery
-Type of Project: Text-Based Adventure Game
-Game Description: You are a student in AppState's CompSci department, you have just left your Software Engineering class and you wonder what will you do tonight. Will you make it to a party where copious amounts of boze await you or do you reject the divine call to party only to go home... ALONE.
+#### Type of Project: 
+Text-Based Adventure Game
+#### Game Description: 
+You are a student in AppState's CompSci department, you have just left your Software Engineering class and you wonder what will you do tonight. Will you make it to a party where copious amounts of boze await you or do you reject the divine call to party only to go home... ALONE.
 
 Each game scene shows art generated through different AI image generative platfroms, and were doctored up with differnt photo editing tools. All context for the text and game prompts themselves were written by Hunter Brickers and Calvin Pettis and they were not generated with AI. 
 
